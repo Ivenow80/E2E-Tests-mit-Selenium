@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chromedriver": "^131.0.2",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.27.0",
+    "webdriver": "^9.4.1"
+  },
+  "name": "e2e-tests-mit-selenium",
+  "version": "1.0.0",
+  "main": "Aufgabe2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
